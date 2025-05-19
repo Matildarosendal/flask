@@ -4,13 +4,13 @@
 
 If you don't have the venv directory, then create it
 
-    python3 -m venv venv
+    python -m venv venv
 
-To continue on your work
+To continue on your work on a Windows machine
 
-    source venv/bin/activate
+    source venv/Scripts/activate
     pip install -r requirements.txt
-    python3 main.py
+    python main.py
 
 Then open browser at
 
